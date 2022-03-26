@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Logo.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Vs Sen0000" x="0" y="0" width="518" height="241" pivotX="0" pivotY="2" frameX="-25" frameY="-13" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0001" x="0" y="0" width="518" height="241" frameX="-25" frameY="-13" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0002" x="0" y="241" width="570" height="264" frameX="-2" frameY="-2" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0003" x="0" y="241" width="570" height="264" frameX="-2" frameY="-2" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0004" x="0" y="505" width="576" height="267" frameX="0" frameY="-1" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0005" x="0" y="505" width="576" height="267" frameX="0" frameY="-1" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0006" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0007" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0008" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0009" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0010" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0011" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0012" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0013" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0014" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0015" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0016" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0017" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0018" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0019" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0020" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0021" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0022" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0023" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+	<SubTexture name="Vs Sen0024" x="0" y="505" width="576" height="267" frameX="0" frameY="0" frameWidth="576" frameHeight="268"/>
+</TextureAtlas>

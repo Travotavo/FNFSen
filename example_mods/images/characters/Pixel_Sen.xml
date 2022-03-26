@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pixel_Sen.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="414" height="432" pivotX="0" pivotY="0"/>
+	<SubTexture name="Down0001" x="0" y="0" width="414" height="432"/>
+	<SubTexture name="Down0002" x="414" y="0" width="414" height="432"/>
+	<SubTexture name="Down0003" x="414" y="0" width="414" height="432"/>
+	<SubTexture name="Left0000" x="828" y="0" width="414" height="432" pivotX="0" pivotY="0"/>
+	<SubTexture name="Left0001" x="828" y="0" width="414" height="432"/>
+	<SubTexture name="Left0002" x="1242" y="0" width="414" height="432"/>
+	<SubTexture name="Left0003" x="1242" y="0" width="414" height="432"/>
+	<SubTexture name="Neutral0000" x="0" y="432" width="414" height="432" pivotX="0" pivotY="0"/>
+	<SubTexture name="Neutral0001" x="0" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0002" x="0" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0003" x="0" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0004" x="0" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0005" x="0" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0006" x="414" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0007" x="414" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0008" x="414" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0009" x="414" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0010" x="414" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0011" x="414" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0012" x="828" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0013" x="828" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0014" x="828" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0015" x="828" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0016" x="828" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0017" x="828" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0018" x="414" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0019" x="414" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0020" x="414" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0021" x="414" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0022" x="414" y="432" width="414" height="432"/>
+	<SubTexture name="Neutral0023" x="414" y="432" width="414" height="432"/>
+	<SubTexture name="Right0000" x="1242" y="432" width="414" height="432" pivotX="0" pivotY="0"/>
+	<SubTexture name="Right0001" x="1242" y="432" width="414" height="432"/>
+	<SubTexture name="Right0002" x="0" y="864" width="414" height="432"/>
+	<SubTexture name="Right0003" x="0" y="864" width="414" height="432"/>
+	<SubTexture name="Up0000" x="414" y="864" width="414" height="432" pivotX="0" pivotY="0"/>
+	<SubTexture name="Up0001" x="414" y="864" width="414" height="432"/>
+	<SubTexture name="Up0002" x="828" y="864" width="414" height="432"/>
+	<SubTexture name="Up0003" x="828" y="864" width="414" height="432"/>
+</TextureAtlas>

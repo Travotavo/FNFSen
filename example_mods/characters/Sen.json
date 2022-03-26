@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				339,
+				453
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sen Up"
+		},
+		{
+			"offsets": [
+				-10,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sen Left"
+		},
+		{
+			"offsets": [
+				-104,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sen Right"
+		},
+		{
+			"offsets": [
+				13,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sen Down"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				3,
+				5,
+				7,
+				9,
+				11,
+				13
+			],
+			"name": "Sen Neutral"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"indices": [
+				15,
+				17,
+				19,
+				21,
+				23,
+				24
+			],
+			"fps": 12,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "Sen Neutral"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sen",
+	"position": [
+		0,
+		-40
+	],
+	"healthicon": "sen",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		40,
+		250
+	],
+	"camera_position": [
+		-80,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				197,
+				-45
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sen Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				276,
+				59
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sen  Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				610
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sen Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				360
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sen Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sen Neutral"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-169,
+				141
+			],
+			"anim": "Slash",
+			"fps": 24,
+			"name": "Sen Slash",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Awakened_Sen",
+	"position": [
+		-640,
+		-290
+	],
+	"healthicon": "Asen",
+	"flip_x": false,
+	"healthbar_colors": [
+		148,
+		91,
+		230
+	],
+	"camera_position": [
+		370,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

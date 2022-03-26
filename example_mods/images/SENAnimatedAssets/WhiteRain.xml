@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WhiteRain.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="falling0000" x="0" y="0" width="2800" height="1600"/>
+	<SubTexture name="falling0001" x="0" y="1600" width="2800" height="1600"/>
+	<SubTexture name="falling0002" x="0" y="3200" width="2800" height="1600"/>
+</TextureAtlas>

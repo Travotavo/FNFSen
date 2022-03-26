@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFTitle.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Link0000" x="0" y="0" width="381" height="148" pivotX="0.6" pivotY="8.05"/>
+	<SubTexture name="Link0001" x="0" y="0" width="381" height="148"/>
+	<SubTexture name="Link0002" x="381" y="0" width="367" height="130" frameX="0" frameY="-7" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0003" x="381" y="0" width="367" height="130" frameX="0" frameY="-7" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0004" x="0" y="148" width="364" height="126" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0005" x="0" y="148" width="364" height="126" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0006" x="364" y="148" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0007" x="364" y="148" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0008" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0009" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0010" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0011" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0012" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0013" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0014" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0015" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0016" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0017" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0018" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0019" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0020" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0021" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0022" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0023" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+	<SubTexture name="Link0024" x="0" y="274" width="364" height="125" frameX="0" frameY="-8" frameWidth="381" frameHeight="148"/>
+</TextureAtlas>

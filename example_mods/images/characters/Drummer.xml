@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Drummer.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Drummer Down0000" x="0" y="0" width="728" height="443" pivotX="4" pivotY="43.25" frameX="-4" frameY="0" frameWidth="732" frameHeight="444"/>
+	<SubTexture name="Drummer Down0001" x="0" y="0" width="728" height="443" frameX="-4" frameY="0" frameWidth="732" frameHeight="444"/>
+	<SubTexture name="Drummer Down0002" x="728" y="0" width="714" height="413" frameX="-3" frameY="-31" frameWidth="732" frameHeight="444"/>
+	<SubTexture name="Drummer Down0003" x="728" y="0" width="714" height="413" frameX="-3" frameY="-31" frameWidth="732" frameHeight="444"/>
+	<SubTexture name="Drummer Down0004" x="1442" y="0" width="711" height="403" frameX="-1" frameY="-41" frameWidth="732" frameHeight="444"/>
+	<SubTexture name="Drummer Down0005" x="1442" y="0" width="711" height="403" frameX="-1" frameY="-41" frameWidth="732" frameHeight="444"/>
+	<SubTexture name="Drummer Down0006" x="2153" y="0" width="710" height="401" frameX="0" frameY="-43" frameWidth="732" frameHeight="444"/>
+	<SubTexture name="Drummer Down0007" x="2153" y="0" width="710" height="401" frameX="0" frameY="-43" frameWidth="732" frameHeight="444"/>
+	<SubTexture name="Drummer Left0000" x="2863" y="0" width="639" height="636" pivotX="28.45" pivotY="1.5" frameX="-28" frameY="-1" frameWidth="675" frameHeight="644"/>
+	<SubTexture name="Drummer Left0001" x="2863" y="0" width="639" height="636" frameX="-28" frameY="-1" frameWidth="675" frameHeight="644"/>
+	<SubTexture name="Drummer Left0002" x="0" y="636" width="671" height="643" frameX="-4" frameY="0" frameWidth="675" frameHeight="644"/>
+	<SubTexture name="Drummer Left0003" x="0" y="636" width="671" height="643" frameX="-4" frameY="0" frameWidth="675" frameHeight="644"/>
+	<SubTexture name="Drummer Left0004" x="671" y="636" width="673" height="644" frameX="-2" frameY="0" frameWidth="675" frameHeight="644"/>
+	<SubTexture name="Drummer Left0005" x="671" y="636" width="673" height="644" frameX="-2" frameY="0" frameWidth="675" frameHeight="644"/>
+	<SubTexture name="Drummer Left0006" x="1344" y="636" width="675" height="644"/>
+	<SubTexture name="Drummer Left0007" x="1344" y="636" width="675" height="644"/>
+	<SubTexture name="Drummer Neutral0000" x="2019" y="636" width="559" height="666" pivotX="28.3" pivotY="0" frameX="0" frameY="-5" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0001" x="2019" y="636" width="559" height="666" frameX="0" frameY="-5" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0002" x="2578" y="636" width="537" height="668" frameX="-6" frameY="-3" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0003" x="2578" y="636" width="537" height="668" frameX="-6" frameY="-3" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0004" x="3115" y="636" width="538" height="669" frameX="-13" frameY="-2" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0005" x="3115" y="636" width="538" height="669" frameX="-13" frameY="-2" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0006" x="0" y="1305" width="525" height="670" frameX="-21" frameY="-1" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0007" x="0" y="1305" width="525" height="670" frameX="-21" frameY="-1" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0008" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0009" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0010" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0011" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0012" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0013" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0014" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0015" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0016" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0017" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0018" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0019" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0020" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0021" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0022" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0023" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0024" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0025" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0026" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0027" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0028" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Neutral0029" x="525" y="1305" width="513" height="671" frameX="-28" frameY="0" frameWidth="559" frameHeight="671"/>
+	<SubTexture name="Drummer Right0000" x="1038" y="1305" width="536" height="650" pivotX="96.1" pivotY="7.5" frameX="0" frameY="-7" frameWidth="573" frameHeight="658"/>
+	<SubTexture name="Drummer Right0001" x="1038" y="1305" width="536" height="650" frameX="0" frameY="-7" frameWidth="573" frameHeight="658"/>
+	<SubTexture name="Drummer Right0002" x="1574" y="1305" width="477" height="657" frameX="-91" frameY="-1" frameWidth="573" frameHeight="658"/>
+	<SubTexture name="Drummer Right0003" x="1574" y="1305" width="477" height="657" frameX="-91" frameY="-1" frameWidth="573" frameHeight="658"/>
+	<SubTexture name="Drummer Right0004" x="2051" y="1305" width="479" height="658" frameX="-94" frameY="0" frameWidth="573" frameHeight="658"/>
+	<SubTexture name="Drummer Right0005" x="2051" y="1305" width="479" height="658" frameX="-94" frameY="0" frameWidth="573" frameHeight="658"/>
+	<SubTexture name="Drummer Right0006" x="2530" y="1305" width="477" height="657" frameX="-96" frameY="0" frameWidth="573" frameHeight="658"/>
+	<SubTexture name="Drummer Right0007" x="2530" y="1305" width="477" height="657" frameX="-96" frameY="0" frameWidth="573" frameHeight="658"/>
+	<SubTexture name="Drummer Up0000" x="3007" y="1305" width="600" height="685" pivotX="2.35" pivotY="14.7" frameX="-2" frameY="-14" frameWidth="614" frameHeight="700"/>
+	<SubTexture name="Drummer Up0001" x="3007" y="1305" width="600" height="685" frameX="-2" frameY="-14" frameWidth="614" frameHeight="700"/>
+	<SubTexture name="Drummer Up0002" x="0" y="1990" width="612" height="691" frameX="0" frameY="-9" frameWidth="614" frameHeight="700"/>
+	<SubTexture name="Drummer Up0003" x="0" y="1990" width="612" height="691" frameX="0" frameY="-9" frameWidth="614" frameHeight="700"/>
+	<SubTexture name="Drummer Up0004" x="612" y="1990" width="614" height="700"/>
+	<SubTexture name="Drummer Up0005" x="612" y="1990" width="614" height="700"/>
+	<SubTexture name="Drummer Up0006" x="1226" y="1990" width="614" height="700"/>
+	<SubTexture name="Drummer Up0007" x="1226" y="1990" width="614" height="700"/>
+</TextureAtlas>

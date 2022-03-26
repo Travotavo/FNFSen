@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ConfirmFlicker.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Retry Loading0000" x="0" y="0" width="2800" height="2594" pivotX="0" pivotY="676" frameX="0" frameY="0" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0001" x="0" y="0" width="2800" height="2594" frameX="0" frameY="0" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0002" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0003" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0004" x="0" y="2594" width="2800" height="1860" frameX="0" frameY="-592" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0005" x="0" y="2594" width="2800" height="1860" frameX="0" frameY="-592" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0006" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0007" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0008" x="2800" y="2594" width="2800" height="2156" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0009" x="2800" y="2594" width="2800" height="2156" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0010" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0011" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0012" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0013" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0014" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0015" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0016" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0017" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0018" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0019" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0020" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0021" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0022" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0023" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0024" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0025" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0026" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0027" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0028" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0029" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0030" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0031" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0032" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0033" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0034" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0035" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0036" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0037" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0038" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0039" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0040" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0041" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0042" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0043" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0044" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0045" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0046" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0047" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0048" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0049" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0050" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0051" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0052" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0053" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0054" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0055" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0056" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0057" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0058" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+	<SubTexture name="Retry Loading0059" x="2800" y="0" width="2800" height="1600" frameX="0" frameY="-676" frameWidth="2800" frameHeight="2832"/>
+</TextureAtlas>

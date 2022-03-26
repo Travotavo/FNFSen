@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Awakened_Sen.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sen  Left0000" x="0" y="0" width="982" height="1038" pivotX="58" pivotY="80.55" frameX="-37" frameY="-80" frameWidth="1019" frameHeight="1118"/>
+	<SubTexture name="Sen  Left0001" x="0" y="0" width="982" height="1038" frameX="-37" frameY="-80" frameWidth="1019" frameHeight="1118"/>
+	<SubTexture name="Sen  Left0002" x="982" y="0" width="1010" height="1103" frameX="-9" frameY="-15" frameWidth="1019" frameHeight="1118"/>
+	<SubTexture name="Sen  Left0003" x="982" y="0" width="1010" height="1103" frameX="-9" frameY="-15" frameWidth="1019" frameHeight="1118"/>
+	<SubTexture name="Sen  Left0004" x="1992" y="0" width="1017" height="1115" frameX="-2" frameY="-3" frameWidth="1019" frameHeight="1118"/>
+	<SubTexture name="Sen  Left0005" x="1992" y="0" width="1017" height="1115" frameX="-2" frameY="-3" frameWidth="1019" frameHeight="1118"/>
+	<SubTexture name="Sen  Left0006" x="3009" y="0" width="1018" height="1117" frameX="-1" frameY="-1" frameWidth="1019" frameHeight="1118"/>
+	<SubTexture name="Sen  Left0007" x="3009" y="0" width="1018" height="1117" frameX="-1" frameY="-1" frameWidth="1019" frameHeight="1118"/>
+	<SubTexture name="Sen  Left0008" x="3009" y="0" width="1018" height="1117" frameX="0" frameY="0" frameWidth="1019" frameHeight="1118"/>
+	<SubTexture name="Sen  Left0009" x="3009" y="0" width="1018" height="1117" frameX="0" frameY="0" frameWidth="1019" frameHeight="1118"/>
+	<SubTexture name="Sen Down0000" x="4027" y="0" width="1655" height="1668" pivotX="4" pivotY="577.95" frameX="-4" frameY="0" frameWidth="1659" frameHeight="1669"/>
+	<SubTexture name="Sen Down0001" x="4027" y="0" width="1655" height="1668" frameX="-4" frameY="0" frameWidth="1659" frameHeight="1669"/>
+	<SubTexture name="Sen Down0002" x="5682" y="0" width="1626" height="1180" frameX="-2" frameY="-488" frameWidth="1659" frameHeight="1669"/>
+	<SubTexture name="Sen Down0003" x="5682" y="0" width="1626" height="1180" frameX="-2" frameY="-488" frameWidth="1659" frameHeight="1669"/>
+	<SubTexture name="Sen Down0004" x="0" y="1668" width="1627" height="1113" frameX="-1" frameY="-556" frameWidth="1659" frameHeight="1669"/>
+	<SubTexture name="Sen Down0005" x="0" y="1668" width="1627" height="1113" frameX="-1" frameY="-556" frameWidth="1659" frameHeight="1669"/>
+	<SubTexture name="Sen Down0006" x="1627" y="1668" width="1547" height="1052" frameX="0" frameY="-616" frameWidth="1659" frameHeight="1669"/>
+	<SubTexture name="Sen Down0007" x="1627" y="1668" width="1547" height="1052" frameX="0" frameY="-616" frameWidth="1659" frameHeight="1669"/>
+	<SubTexture name="Sen Down0008" x="3174" y="1668" width="1533" height="1051" frameX="0" frameY="-617" frameWidth="1659" frameHeight="1669"/>
+	<SubTexture name="Sen Down0009" x="3174" y="1668" width="1533" height="1051" frameX="0" frameY="-617" frameWidth="1659" frameHeight="1669"/>
+	<SubTexture name="Sen Neutral0000" x="4707" y="1668" width="972" height="1045" pivotX="0" pivotY="28.6" frameX="0" frameY="-4" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0001" x="4707" y="1668" width="972" height="1045" frameX="0" frameY="-4" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0002" x="5679" y="1668" width="971" height="1048" frameX="-8" frameY="-1" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0003" x="5679" y="1668" width="971" height="1048" frameX="-8" frameY="-1" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0004" x="6650" y="1668" width="969" height="1049" frameX="-17" frameY="0" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0005" x="6650" y="1668" width="969" height="1049" frameX="-17" frameY="0" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0006" x="0" y="2781" width="967" height="1049" frameX="-26" frameY="0" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0007" x="0" y="2781" width="967" height="1049" frameX="-26" frameY="0" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0008" x="967" y="2781" width="964" height="1045" frameX="-39" frameY="-4" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0009" x="967" y="2781" width="964" height="1045" frameX="-39" frameY="-4" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0010" x="1931" y="2781" width="966" height="1043" frameX="-32" frameY="-6" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0011" x="1931" y="2781" width="966" height="1043" frameX="-32" frameY="-6" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0012" x="2897" y="2781" width="968" height="1041" frameX="-24" frameY="-8" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0013" x="2897" y="2781" width="968" height="1041" frameX="-24" frameY="-8" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0014" x="3865" y="2781" width="970" height="1041" frameX="-17" frameY="-8" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0015" x="3865" y="2781" width="970" height="1041" frameX="-17" frameY="-8" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0016" x="4835" y="2781" width="971" height="1041" frameX="-10" frameY="-8" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Neutral0017" x="4835" y="2781" width="971" height="1041" frameX="-10" frameY="-8" frameWidth="1003" frameHeight="1049"/>
+	<SubTexture name="Sen Right0000" x="5806" y="2781" width="1250" height="994" pivotX="-0.45" pivotY="26" frameX="-11" frameY="-26" frameWidth="1311" frameHeight="1021"/>
+	<SubTexture name="Sen Right0001" x="5806" y="2781" width="1250" height="994" frameX="-11" frameY="-26" frameWidth="1311" frameHeight="1021"/>
+	<SubTexture name="Sen Right0002" x="0" y="3830" width="1287" height="1008" frameX="0" frameY="-13" frameWidth="1311" frameHeight="1021"/>
+	<SubTexture name="Sen Right0003" x="0" y="3830" width="1287" height="1008" frameX="0" frameY="-13" frameWidth="1311" frameHeight="1021"/>
+	<SubTexture name="Sen Right0004" x="1287" y="3830" width="1301" height="1014" frameX="0" frameY="-6" frameWidth="1311" frameHeight="1021"/>
+	<SubTexture name="Sen Right0005" x="1287" y="3830" width="1301" height="1014" frameX="0" frameY="-6" frameWidth="1311" frameHeight="1021"/>
+	<SubTexture name="Sen Right0006" x="2588" y="3830" width="1308" height="1018" frameX="0" frameY="-2" frameWidth="1311" frameHeight="1021"/>
+	<SubTexture name="Sen Right0007" x="2588" y="3830" width="1308" height="1018" frameX="0" frameY="-2" frameWidth="1311" frameHeight="1021"/>
+	<SubTexture name="Sen Right0008" x="3896" y="3830" width="1310" height="1020" frameX="-1" frameY="-1" frameWidth="1311" frameHeight="1021"/>
+	<SubTexture name="Sen Right0009" x="3896" y="3830" width="1310" height="1020" frameX="-1" frameY="-1" frameWidth="1311" frameHeight="1021"/>
+	<SubTexture name="Sen Right0010" x="5206" y="3830" width="1311" height="1020" frameX="0" frameY="0" frameWidth="1311" frameHeight="1021"/>
+	<SubTexture name="Sen Right0011" x="5206" y="3830" width="1311" height="1020" frameX="0" frameY="0" frameWidth="1311" frameHeight="1021"/>
+	<SubTexture name="Sen Slash0000" x="6517" y="3830" width="1491" height="1087" pivotX="-168.9" pivotY="179.05" frameX="-1" frameY="-113" frameWidth="1616" frameHeight="1201"/>
+	<SubTexture name="Sen Slash0001" x="6517" y="3830" width="1491" height="1087" frameX="-1" frameY="-113" frameWidth="1616" frameHeight="1201"/>
+	<SubTexture name="Sen Slash0002" x="0" y="4917" width="1615" height="1201" frameX="-1" frameY="0" frameWidth="1616" frameHeight="1201"/>
+	<SubTexture name="Sen Slash0003" x="0" y="4917" width="1615" height="1201" frameX="-1" frameY="0" frameWidth="1616" frameHeight="1201"/>
+	<SubTexture name="Sen Slash0004" x="1615" y="4917" width="1029" height="1046" frameX="-1" frameY="-155" frameWidth="1616" frameHeight="1201"/>
+	<SubTexture name="Sen Slash0005" x="1615" y="4917" width="1029" height="1046" frameX="-1" frameY="-155" frameWidth="1616" frameHeight="1201"/>
+	<SubTexture name="Sen Slash0006" x="2644" y="4917" width="1030" height="1048" frameX="-1" frameY="-153" frameWidth="1616" frameHeight="1201"/>
+	<SubTexture name="Sen Slash0007" x="2644" y="4917" width="1030" height="1048" frameX="-1" frameY="-153" frameWidth="1616" frameHeight="1201"/>
+	<SubTexture name="Sen Slash0008" x="3674" y="4917" width="1030" height="1049" frameX="-1" frameY="-152" frameWidth="1616" frameHeight="1201"/>
+	<SubTexture name="Sen Slash0009" x="3674" y="4917" width="1030" height="1049" frameX="-1" frameY="-152" frameWidth="1616" frameHeight="1201"/>
+	<SubTexture name="Sen Slash0010" x="4704" y="4917" width="1031" height="1049" frameX="0" frameY="-151" frameWidth="1616" frameHeight="1201"/>
+	<SubTexture name="Sen Slash0011" x="4704" y="4917" width="1031" height="1049" frameX="0" frameY="-151" frameWidth="1616" frameHeight="1201"/>
+	<SubTexture name="Sen Up0000" x="5735" y="4917" width="983" height="1377" pivotX="27" pivotY="41.25" frameX="-27" frameY="-42" frameWidth="1054" frameHeight="1419"/>
+	<SubTexture name="Sen Up0001" x="5735" y="4917" width="983" height="1377" frameX="-27" frameY="-42" frameWidth="1054" frameHeight="1419"/>
+	<SubTexture name="Sen Up0002" x="6718" y="4917" width="1031" height="1406" frameX="-9" frameY="-13" frameWidth="1054" frameHeight="1419"/>
+	<SubTexture name="Sen Up0003" x="6718" y="4917" width="1031" height="1406" frameX="-9" frameY="-13" frameWidth="1054" frameHeight="1419"/>
+	<SubTexture name="Sen Up0004" x="0" y="6323" width="1049" height="1416" frameX="-2" frameY="-3" frameWidth="1054" frameHeight="1419"/>
+	<SubTexture name="Sen Up0005" x="0" y="6323" width="1049" height="1416" frameX="-2" frameY="-3" frameWidth="1054" frameHeight="1419"/>
+	<SubTexture name="Sen Up0006" x="1049" y="6323" width="1052" height="1418" frameX="-1" frameY="-1" frameWidth="1054" frameHeight="1419"/>
+	<SubTexture name="Sen Up0007" x="1049" y="6323" width="1052" height="1418" frameX="-1" frameY="-1" frameWidth="1054" frameHeight="1419"/>
+	<SubTexture name="Sen Up0008" x="2101" y="6323" width="1054" height="1419"/>
+	<SubTexture name="Sen Up0009" x="2101" y="6323" width="1054" height="1419"/>
+	<SubTexture name="Sen Up0010" x="2101" y="6323" width="1054" height="1419"/>
+	<SubTexture name="Sen Up0011" x="2101" y="6323" width="1054" height="1419"/>
+</TextureAtlas>

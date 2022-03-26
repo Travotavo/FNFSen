@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Drummer Neutral",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-71
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Drummer Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-270
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Drummer Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Drummer Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Drummer Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Drummer",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "Drummer",
+	"flip_x": false,
+	"healthbar_colors": [
+		156,
+		96,
+		20
+	],
+	"camera_position": [
+		80,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
